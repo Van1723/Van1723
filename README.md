@@ -7,11 +7,7 @@
 
 ## 🌱 Atualmente estou aprendendo PYTHON 🐍 
 
-## Funcionalidades
 
-- Processamento de dados
-- Automação
-- Análise de resultados
 
 
 <div style="width: 200px;">
