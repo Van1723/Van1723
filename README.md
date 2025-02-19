@@ -5,7 +5,14 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:vanessa.tecma@gmail.com)
 
 
-## 🌱 Atualmente estou aprendendo ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🌱 Atualmente estou aprendendo PYTHON 🐍 
+
+## Funcionalidades
+
+- Processamento de dados
+- Automação
+- Análise de resultados
+
 
 <div style="width: 200px;">
 <a href="https://github.com/Van1723/github-readme-stats">
